@@ -1,4 +1,4 @@
-Here’s a template for your GitHub README file tailored to your Django eCommerce app:
+Django E-commerce app
 
 ```markdown
 # Django eCommerce App
